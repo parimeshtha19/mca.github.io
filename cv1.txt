@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+    <div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <div style="background-image: url('Untitled.png');">
+
+  <h1 style="color: blue;font-size: 60px;"> Resume</h1>
+  <h2 style="color: rgb(88, 214, 15);font-size: 30px;">Parimeshtha Shukla</h2>
+  
+  <hr />
+  <br>
+  <h3>Personal Information:</h3>
+   <p>
+    <ul>
+    <li>
+    A young, determined hard and smart working person. I'm a Software Engineer in the field of Computer Science.
+   <li>
+   <span id="course-name">Languages Known:</span>English, Hindi</li>
+   <a href="parimeshtha.shukla@gmail.com" target="_blank"><p id="email">parimeshtha.shukla@gmail.com</p></a>
+         <p id="contact">+91 8318556767</p>
+   </ul>
+
+</p>
+<p class="head"><h3>Education</p></h3>
+  <ul>
+    <a href="http://www.vsec.in/">
+      <li style="color: red;">Dr. Virendra Swaroop Education Centre</li>
+    </a>
+    <a href="https://csjmu.ac.in/">
+      <li style="color: rgb(233, 10, 10);">Chatrapati Sahu Ji Maharaj- Graduation</li>
+      </a>
+      <a href="https://www.kiet.edu/">
+          <li style="color: red;">Krishna Institute of Engineering and Technology - Post-Graduation(still persuing)</li>
+      </a>
+    </ul>
+<p class="head"><h3>Interests</p></h3>
+  <ul>
+    <li>Programming</li>
+    <li>traveling</li>
+    <li>Trading</li>
+    <li>listening Songs</li>
+    <li>surfing Internet</li>
+    <li>self-learning through e-courses</li>
+  </ul>
+<p class="head"><h3>Skills</p></h3>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+    <li>C Programming</li>
+    <li>Presentation skills</li>
+    <li>Trading in stocks and cryptocurrnecy</li>
+    
+  </ul>
+  </div>
+</head>
+<body>
+    
+</body>
+</html>
